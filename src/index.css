@@ -12,3 +12,6 @@
 body{
   background-color: #E0F1E7;
 }
+.ant-form-item-required::before{
+
+}
