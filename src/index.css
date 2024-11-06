@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "Karla", sans-serif;
+  src: url('./assets/fonts/Karla-Italic-VariableFont_wght.ttf') ;
+  font-weight: normal;
+  font-style: normal;
+}
+body{
+  background-color: #E0F1E7;
+}
