@@ -100,7 +100,7 @@ const App: React.FC = () => (
       </Form.Item>
 
       <Form.Item wrapperCol={{ span: 24 }}>
-        <Button type="button" className='bg-[#0C7D69] hover:bg-[#26A69A] text-white mt-4' htmlType="submit" block>
+        <Button type="default" className='bg-[#0C7D69] hover:bg-[#26A69A] text-white mt-4' htmlType="submit" block>
           Submit
         </Button>
       </Form.Item>
